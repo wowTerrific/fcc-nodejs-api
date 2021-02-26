@@ -1,0 +1,19 @@
+{
+  "name": "fcc-nodejs-api",
+  "version": "1.0.0",
+  "description": "This is a NodeJS API created from the FCC video tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/wowTerrific/fcc-nodejs-api.git"
+  },
+  "author": "wowTerrific",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wowTerrific/fcc-nodejs-api/issues"
+  },
+  "homepage": "https://github.com/wowTerrific/fcc-nodejs-api#readme"
+}
